@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aarjav Jain and I am currently a first year student at UBCV studying engineering!
+- Im currently learning C to prepare for upcoming courses and so I have made a few personal projects. These include KANTAN Kanji and various DFFT related algorithms.
+- You can contact me through email: Aarjavjain2736@gmail.com
