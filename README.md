@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Aarjav Jain and I am currently a first year student at UBCV studying engineering!
+- 👋 Hi, I’m Aarjav Jain and I am currently a 2nd year CPEN student at UBCV!
 - I am an Applied AI developer on UBC Agrobot
-- Im currently learning C to prepare for upcoming courses and so I have made a few personal projects. These include KANTAN Kanji and various DFFT related algorithms.
-- I am also learning OpenCV and Machine Learning skills in Python
+- Im currently working on my beat detection project. Check out the repository!
 - You can contact me through email: Aarjavjain2736@gmail.com
